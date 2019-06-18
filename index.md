@@ -1,4 +1,16 @@
-## Welcome to GitHub Pages
+# My Learning Journal - Growth Mindset
+
+## What is a Mindset?
+Mindset is they way people think abount themselves. A kind of self-theory that people hold about themselves. 
+
+## Type of Mindsets
+
+Fixed Minset | Growth Mindset
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+
 
 You can use the [editor on GitHub](https://github.com/shauvia/szalwia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
