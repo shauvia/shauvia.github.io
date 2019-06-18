@@ -1,4 +1,4 @@
-# My Learning Journal - Growth Mindset
+# My Learning Journal - Growth Mindset and Markdown language
 
 ## What is a Mindset?
 Mindset is they way people think abount themselves. A kind of self-theory that people hold about themselves. 
@@ -6,9 +6,13 @@ Mindset is they way people think abount themselves. A kind of self-theory that p
 ## Type of Mindsets
 
 Fixed Minset | Growth Mindset
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+People believe that that their basic qualities like talent are fixed. People are "labeled": talented, smart intelligent. It is believing that talent along can create a success, without effort. | People believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point
+
+### Three things to remember about the Growth Mindset:
+* No one is a master at the beginning
+* Learning a new thing, strategies is hard at the beginning for every one. 
+* I don't know **YET!**
+
 
 
 
