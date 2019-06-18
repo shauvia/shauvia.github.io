@@ -33,8 +33,8 @@ Its key design goal is readability – that the language be readable as-is.
 
 Code example | How it looks like
 ------------ | -------------
-`# This is an <h1> tag`| # This is an <h1> tag
-`__This text will be bold__>| __This text will be bold__
+`# This is an <h1> tag`| # This is an `<h1>` tag
+`__This text will be bold__`| __This text will be bold__
 Numbered list:  `1 Item 1`| 1 Item 1
   
 
