@@ -41,6 +41,23 @@ Numbered list:  `1 Item 1`| 1 Item 1
 More info can be found: [guides.github.com](https://guides.github.com/features/mastering-markdown/)
 
 
+
+# Text editor - how to choose it?
+based on [Choosing A Text Editor](https://medium.com/@theoldercoder/choosing-a-text-editor-3e56f71bd636) by Joe Belli
+
+### What is a text editor?
+
+> "A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site." Joe Belli
+
+### The best features for a text editor:
++ code copletion - display possible suggestions based on what was typed
++ syntax highlighting - helps distinguish what is written by colorizing text
++ themes - allow to change the color of the background of your text editor, the series of colors in your text
++ vide selection of extentions - help to change trxt editor to meet user's needs
+
+
+
+
 ### A bit about me: 
 
-I'm Ewa. I'm an art historian working as a Client Support. Please don't mind my mistakes. I'm Polish what is your super Power? 
+I'm Ewa. I'm an art historian working as a Client Support. Please don't mind my mistakes. I speak Polish. What is your super power? 
