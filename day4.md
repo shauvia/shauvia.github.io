@@ -1,4 +1,4 @@
-# HTML and  CSS
+# HTML
 
 Every website should be designed for the target audience. Who will visit the site. Think abount the demographic of the sample of target audience.
 
