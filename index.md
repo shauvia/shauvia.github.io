@@ -82,10 +82,54 @@ Check out as well - Linux Tutorial:
 - [More About Files!](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
 
+# A Git Tutorial
 
+##3 Version Control
+
+Version Control is a system that allows to revisit various versions of a file or set of files by recording changes.
+
+Version Control (VCS) allows: 
++ file or project can be reverted to previous cersion
++ track modifications and modifying individuals
++ to ompare changes
+
+### Local Version Control
+
+Local VCS entails one database on your hard disk that stores changes to files.
+
+### Centralized Version Control
+Created because of the need for collaboration within a developer team on a single file or set of files. Single server stores all changes and file versions kind of data backups.
+
+### Distributed Version Control System (DVCS)
+Help to avoid the one big disadvatage: the server as a single point of failure. To avoid data lost DVCS allows clients to create mirrored repositories
+
+## GIT
+it is a DVCS that stores data in a file system made up of snapshots. Every commit - changed version - 
+
+
+
+#### To check the file Staus use:
+```
+$ git status
+```
+#### Tracking a file: 
+```
+git add filename
+```
+
+#### Tracking files:
+```
+$ git add *
+```
+
+#### Making a Commit:
+
+After staging one or multiple files, the changes should be commited and recorded what you did within the commit message:
+```
+$ git commit -m “made change x,y,z”
 ```
 ### A bit about me: 
 
 I'm Ewa. I'm an art historian working as a Client Support. Please don't mind my mistakes. I speak Polish. What is your super power?
 
-```
+
