@@ -5,6 +5,7 @@ Table Content
 - [Day One - Growth Mindset and Markdown Language](day1.md)
 - [Day Two - Text editor](day2.md)
 - [Day Thee - Git](day3.md)
+- [Day Four - HTML](day4.md)
 
 
 ### A bit about me: 
