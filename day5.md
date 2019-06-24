@@ -29,6 +29,10 @@ h1, h2, h3 {
 }
 ```
 
+### External CSS
+
+`<link href='style.css' type='text/css' rel='stylesheet'/>`
+
 ### Color
 
 The color poperty allows to specify the coloer of thext inside any element. 
