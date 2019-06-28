@@ -1,4 +1,4 @@
-# What is a script. How to create one and other stuff
+# What is a script and functions
 
 ### Expression
 
