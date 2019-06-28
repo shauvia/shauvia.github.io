@@ -9,6 +9,7 @@ Table Content
 - [Day Five - CSS](day5.md)
 - [Ex Six - Java Script](exercise6.md)
 - [Functions - JS](day24.md)
+- [Loops](day26.md)
 
 
 ### A bit about me: 
