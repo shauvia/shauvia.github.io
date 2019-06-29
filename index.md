@@ -10,6 +10,7 @@ Table Content
 - [Ex Six - Java Script](exercise6.md)
 - [Functions - JS](day24.md)
 - [Loops](day26.md)
+- [Objects ans Arrays](day28.md)
 
 
 ### A bit about me: 
